@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "event_id": 1,
+      "event_name": "abc",
+      "description": "hello",
+      "date": "08-08-2024",
+      "time": "2pm",
+      "theme": "artistic",
+      "cost": 500,
+      "id": "5186"
+    },
+    {
+      "id": "ca2b",
+      "event_id": "111",
+      "event_name": "singing",
+      "description": "f",
+      "date": "2024-02-14",
+      "time": "04:56",
+      "theme": "h",
+      "cost": "60"
+    },
+    {
+      "id": "d565",
+      "event_id": "667",
+      "event_name": "tppp",
+      "description": "yhgf",
+      "date": "2024-01-29",
+      "time": "19:20",
+      "theme": "h",
+      "cost": "90"
+    },
+    {
+      "id": "148f",
+      "event_id": "790",
+      "event_name": "concert",
+      "description": "good",
+      "date": "2024-02-29",
+      "time": "17:22",
+      "theme": "t",
+      "cost": "200"
+    }
+  ]
+}
